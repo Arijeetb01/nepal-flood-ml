@@ -1,4 +1,4 @@
-readme = """# Nepal Flood & Weather: River Discharge Prediction
+# Nepal Flood & Weather: River Discharge Prediction
 
 Predicts daily river discharge (`river_discharge_m3s`) at 10 Nepali river stations from weather data, using linear regression and XGBoost.
 
